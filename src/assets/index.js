@@ -20,6 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import cpp from "./tech/cpp.png";
+import c from "./tech/c.png";
 import hacker from "./company/hacker.png";
 import tour from "./tour.png";
 import travel from "./travel.png";
@@ -37,6 +39,8 @@ export {
   close,
   css,
   docker,
+  cpp,
+  c,
   figma,
   git,
   html,

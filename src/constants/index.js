@@ -16,6 +16,8 @@ import {
   git,
   figma,
   docker,
+  cpp,
+  c,
   hacker,
   tour,
   travel,
@@ -79,16 +81,16 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Cpp",
+    icon: cpp,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "C",
+    icon: c,
   },
   {
     name: "Tailwind CSS",
@@ -103,16 +105,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 
